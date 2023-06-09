@@ -1,0 +1,28 @@
+body {
+    background-color:blueviolet
+}
+
+.container {
+    width: 70%;
+    text-align: center;
+}
+
+h2 {
+    margin: 30px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.dice-area {
+    margin: 0px 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+    color: aliceblue;
+}
+
+img {
+    width: 280px;
+}
